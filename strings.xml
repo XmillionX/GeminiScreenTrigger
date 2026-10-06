@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">Gemini Screen Trigger</string>
+<string name="app_description">Двойное Volume Down: снимок экрана и запуск Gemini без меню Share</string>
+</resources>
